@@ -1,4 +1,4 @@
-
+on payment 
 
 # Payments & Billing
 This section contains information on the payment methods we accept and how to change your payment method.
